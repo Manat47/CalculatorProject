@@ -13,15 +13,11 @@
 
 เมื่อดาวน์โหลดเสร็จแล้ว ให้เข้าไปยังที่อยู่ไฟล์ดังนี้:
 
-![28287.jpg](https://i.postimg.cc/zfFNRj98/28287.jpg)
-
 » มาที่ด้านล่างซ้าย คลิก VSCodeUserSetup....exe⌵
-
-![28288.jpg](https://i.postimg.cc/509V5zVv/28288.jpg)
 
 » เลือกShow in folder/แสดงในโฟลเดอร์
 
-![28287.jpg](https://i.postimg.cc/zfFNRj98/28287.jpg)
+![download-vs-code-3.png](https://i.postimg.cc/JhQ30pWb/download-vs-code-3.png)
 
 เมื่อเข้ามาแล้ว ส่วนมากจะอยู่ที่ Downloads
 
